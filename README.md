@@ -6,7 +6,7 @@
 
 - Compilador C (GCC)
 - Sistema Operacional Windows, Linux ou MacOs
-- Terminal
+- Terminal/ Prompt de Comando
 
 ## Compilação e Execução
 
