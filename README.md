@@ -1,6 +1,6 @@
 # Jogo-da-Velha
 
-- Integrantes do Grupo 09: Pedro Henrique, Pedro Galvão, Raphael Pro
+- Integrantes do Grupo 09: Pedro Henrique, Pedro Galvão, Raphael Procopio e Tiago Cypriano
 
 ## Requisitos
 
