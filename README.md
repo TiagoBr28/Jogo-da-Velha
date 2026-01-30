@@ -8,7 +8,7 @@
 - Sistema Operacional Windows, Linux ou MacOs
 - Terminal
 
-## Compilação
+## Compilação e Execução
 
 No diretório onde estão os arquivos, execute o comando:
 
